@@ -3,8 +3,6 @@
 ## 支持workers与pages两种形式部署
 
 ## 现实vless+ws+tls与vless+ws两种代理节点
-
-## 详细说明教程请参考[甬哥博客及视频教程](https://ygkkk.blogspot.com/2023/07/cfworkers-vless.html)
 --------------------------------
 ### CF vless代码默认修改内容
 
